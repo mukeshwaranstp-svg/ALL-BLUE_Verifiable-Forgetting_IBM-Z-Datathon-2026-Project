@@ -1,0 +1,6 @@
+{
+  "name": "Verifiable Forgetting - Enterprise ML Unlearning & Deletion Pipeline",
+  "description": "End-to-end verifiable forgetting platform with multi-customer deletion requests, interactive neural network unlearning visualizer, and cryptographic verification evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
